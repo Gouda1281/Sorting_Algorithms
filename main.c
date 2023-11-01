@@ -4,7 +4,7 @@
 void Bubble_Sorting(int *data, len)
 {
 
-
+	printf("Bubble_Sorting function\n");
 }
 
 
