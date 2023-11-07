@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1699367834 source:c:\study\algorithms\bubble_sorting\sorting_algorithms\bubble_sorting\bubble_sorting_in_cpp.cpp
+	<iostream>
+
+1699367750 source:c:\study\algorithms\bubble_sorting\sorting_algorithms\bubble_sorting\main.cpp
+	<iostream>
+	"Bubble_sort_header.h"
+
+1699367692 source:c:\study\algorithms\bubble_sorting\sorting_algorithms\bubble_sorting\bubble_sorting_in_c.cpp
+	<stdio.h>
+
+1699367502 c:\study\algorithms\bubble_sorting\sorting_algorithms\bubble_sorting\bubble_sort_header.h
+
